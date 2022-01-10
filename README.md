@@ -25,7 +25,7 @@ The model is trained by using the logistic regression algorithm and gives us a a
 
  <table align="center">
   <tr>
-    <th>Result Selection</th>
+    <th></th>
    
   </tr>
   <tr>
