@@ -20,6 +20,22 @@ This application predicts if the person is diabetic and if there are some obviou
 The model is trained by using the logistic regression algorithm and gives us a accuracy of 75%
 
 
+### Output
+
+
+ <table align="center">
+  <tr>
+    <th>Result Selection</th>
+   
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74124514/148725757-5cce6728-5ddd-4185-86e6-8501a53a7ece.PNG" alt="Splash Screen" style="width:500px;height:500px;"></td>
+    
+  </tr>
+
+</table><br><br>
+
+
 ### Libraries Used :
 
 * Pandas
