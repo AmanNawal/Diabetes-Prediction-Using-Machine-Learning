@@ -29,7 +29,7 @@ The model is trained by using the logistic regression algorithm and gives us a a
    
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/74124514/148725757-5cce6728-5ddd-4185-86e6-8501a53a7ece.PNG" alt="Splash Screen" style="width:500px;height:500px;"></td>
+    <td><img src="https://user-images.githubusercontent.com/74124514/148725757-5cce6728-5ddd-4185-86e6-8501a53a7ece.PNG" alt="Splash Screen" style="width:700px;height:500px;"></td>
     
   </tr>
 
